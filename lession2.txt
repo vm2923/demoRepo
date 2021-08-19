@@ -1,1 +1,5 @@
 Three stages of VCS:
+1. Local
+2. Centralized
+3. Distributed
+4. Modified Line
